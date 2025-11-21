@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project/cartPage.dart';
+import 'cartPage.dart';
 
 import 'Product_Page.dart';
 
